@@ -1,7 +1,7 @@
-#News Summarizer Web App
+## News Summarizer Web App
 The News Summarizer Web App is a simple web application built using Flask, HTML, CSS, and JavaScript. It allows users to add news articles with titles and content. Upon submission, the content of the news article is automatically summarized using the Transformers library and displayed on the web page.
 
-#Features
+## Features
 - Add News Articles: Users can add news articles by providing a title and content through a form.
 - Automatic Summarization: The content of the news articles is automatically summarized using the Transformers library.
 - Display Summarized News: Summarized news articles are displayed on the web page, providing users with concise information.
@@ -52,6 +52,11 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ![Screenshot (285)](https://github.com/Sahasra-Kesara/news-summarizer-FullStack/assets/121740972/496a67fa-38c7-4fc6-9deb-4e2df0bd3dda)
+
 ![Screenshot (286)](https://github.com/Sahasra-Kesara/news-summarizer-FullStack/assets/121740972/82e7c08f-c19d-4e78-90cb-8187fcf611d7)
+
+![Screenshot (290)](https://github.com/Sahasra-Kesara/news-summarizer-FullStack/assets/121740972/a6e8a30c-e1df-487c-a3d9-bada8c49d6df)
+
 ![Screenshot (287)](https://github.com/Sahasra-Kesara/news-summarizer-FullStack/assets/121740972/6dfc752e-7e26-4f4a-b4db-b5152c8ca4d5)
+
 ![Screenshot (288)](https://github.com/Sahasra-Kesara/news-summarizer-FullStack/assets/121740972/29e23498-cc6a-4798-a7a4-585c89fbbbb0)
