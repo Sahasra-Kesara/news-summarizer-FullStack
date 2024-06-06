@@ -1,4 +1,4 @@
-## News Summarizer Web App
+# News Summarizer Web App
 The News Summarizer Web App is a simple web application built using Flask, HTML, CSS, and JavaScript. It allows users to add news articles with titles and content. Upon submission, the content of the news article is automatically summarized using the Transformers library and displayed on the web page.
 
 ## Features
