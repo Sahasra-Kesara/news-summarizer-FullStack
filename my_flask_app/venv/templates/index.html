@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Summarizer</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>News Summarizer</h1>
+        <form id="news-form">
+            <div class="form-group">
+                <label for="title">News Title</label>
+                <input type="text" id="title" name="title" required>
+            </div>
+            <div class="form-group">
+                <label for="content">News Content</label>
+                <textarea id="content" name="content" rows="10" required></textarea>
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+        <h2>Summarized News</h2>
+        <div id="news-articles"></div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
