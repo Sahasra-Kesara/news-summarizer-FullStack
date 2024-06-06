@@ -7,8 +7,8 @@ The News Summarizer Web App is a simple web application built using Flask, HTML,
 - Display Summarized News:   Summarized news articles are displayed on the web page, providing users with concise information.
 
 ## Technologies Used
-- Flask:   Flask is used as the web framework for building the backend of the application.
-- HTML/CSS/JavaScript:   HTML, CSS, and JavaScript are used for building the frontend of the application and handling user interactions.
+- ##Flask:##   Flask is used as the web framework for building the backend of the application.
+- ## HTML/CSS/JavaScript: ##   HTML, CSS, and JavaScript are used for building the frontend of the application and handling user interactions.
 - SQLAlchemy:   SQLAlchemy is used as the ORM (Object-Relational Mapping) library for interacting with the SQLite database.
 - Transformers:   The Transformers library is used for automatic text summarization.
 
