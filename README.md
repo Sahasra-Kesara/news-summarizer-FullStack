@@ -2,15 +2,15 @@
 The News Summarizer Web App is a simple web application built using Flask, HTML, CSS, and JavaScript. It allows users to add news articles with titles and content. Upon submission, the content of the news article is automatically summarized using the Transformers library and displayed on the web page.
 
 ## Features
-- Add News Articles:   Users can add news articles by providing a title and content through a form.
-- Automatic Summarization:   The content of the news articles is automatically summarized using the Transformers library.
-- Display Summarized News:   Summarized news articles are displayed on the web page, providing users with concise information.
+- Add News Articles: Users can add news articles by providing a title and content through a form.
+- Automatic Summarization: The content of the news articles is automatically summarized using the Transformers library.
+- Display Summarized News: Summarized news articles are displayed on the web page, providing users with concise information.
 
 ## Technologies Used
-- ##Flask:##   Flask is used as the web framework for building the backend of the application.
-- ## HTML/CSS/JavaScript: ##   HTML, CSS, and JavaScript are used for building the frontend of the application and handling user interactions.
-- SQLAlchemy:   SQLAlchemy is used as the ORM (Object-Relational Mapping) library for interacting with the SQLite database.
-- Transformers:   The Transformers library is used for automatic text summarization.
+- Flask: Flask is used as the web framework for building the backend of the application.
+- HTML/CSS/JavaScript: HTML, CSS, and JavaScript are used for building the frontend of the application and handling user interactions.
+- SQLAlchemy: SQLAlchemy is used as the ORM (Object-Relational Mapping) library for interacting with the SQLite database.
+- Transformers: The Transformers library is used for automatic text summarization.
 
 ## Installation
 
@@ -48,6 +48,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 ![Screenshot (285)](https://github.com/Sahasra-Kesara/news-summarizer-FullStack/assets/121740972/496a67fa-38c7-4fc6-9deb-4e2df0bd3dda)
 
